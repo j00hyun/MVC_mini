@@ -5,10 +5,17 @@ hello i'm joohyun :-)
 bury a friend - billy
 nothing but only
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 3d41a9f98ae0946382b993465d44e065c5cf09c8
 12345
 =======
 this song is too scary...
 >>>>>>> dc5768b14712180b1a25c74c8aa43310e2700bdd
 
-what a day what a lovely day!!!!
+what a day what a lovely day!!!!!!!!!
+=======
+this song is too scary.....
+123123123123
+배고파 초밥먹고싶다
+>>>>>>> 21ddbc92e98094e0e2a89a4690ced2efe7443fe1
+
